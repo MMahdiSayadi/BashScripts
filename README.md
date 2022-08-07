@@ -18,8 +18,21 @@ it is also this crazy powerfull programming slash scripting language. let's writ
 
 how to open nano: 
 ```
-nano
+nano <script_name>.sh
 if you see the permission denied type following command 
-sudo nano 
+sudo nano <script_name>.sh
 ```
 
+ * write some command line in it started by `!/bin/bash`
+ * save it using hit `ctrl + x` followed by `y` and then press `enter`
+now your file is been saved
+
+the next thing who you have to do is to create your file executable: 
+you can do this using following command: 
+```
+chmod +x <script_name>.sh 
+```
+it gives to your scripts executable permission.
+
+ * as the final step you can run your programm using below command. 
+ * `./<scripts_name>.sh`

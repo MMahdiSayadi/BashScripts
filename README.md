@@ -10,4 +10,16 @@ it is also this crazy powerfull programming slash scripting language. let's writ
 
 ## Requirements 
   * First : Linux !!!
-  * Second: Llinux !!!
+  * Second: nano text editor
+
+## what you have to do at first 
+
+ * open a text file and write you scripts within it using nano editor. 
+
+how to open nano: 
+```
+nano
+if you see the permission denied type following command 
+sudo nano 
+```
+

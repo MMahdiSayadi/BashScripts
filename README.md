@@ -8,4 +8,6 @@ and we call it bash because it kind of wraps itself around the Linux kernel. shi
 So the bash shell is just how we make Linux do things. make new files, add new users hack.
 it is also this crazy powerfull programming slash scripting language. let's write our first bash script right now. :)
 
-
+## Requirements 
+  * First : Linux !!!
+  * Second: Llinux !!!
